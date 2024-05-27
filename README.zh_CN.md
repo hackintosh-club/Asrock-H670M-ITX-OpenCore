@@ -36,7 +36,7 @@
 ### Bios Setup
 
 ```
-     |-- cfg Lock ：Disabled
+   |-- cfg Lock ：Disabled
 	 |-- Intel Virtualization Technology ：Enabled
 	 |-- XHCI Hand-off ：Enabled
 	 |-- Above 4G Decoding ：Enabled
@@ -45,7 +45,6 @@
 	 |-- Secure Boot ：Disabled
 	 |-- Fast Boot ：Disabled
 	 |-- Launch CSM  ：Disabled
-	 
 ```
 
 

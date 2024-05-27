@@ -31,14 +31,14 @@
 ### Notes
 
  - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
- 
+
  - If you want to use a CPU without Efficient-Core, you must uncheck the option in the config.plist file Kernel--ProvideCurrentCpuinfo
 
 ### Bios Setup
 
 ```
 
-     |-- cfg Lock ：Disabled
+   |-- cfg Lock ：Disabled
 	 |-- Intel Virtualization Technology ：Enabled
 	 |-- XHCI Hand-off ：Enabled
 	 |-- Above 4G Decoding ：Enabled
@@ -47,7 +47,6 @@
 	 |-- Secure Boot ：Disabled
 	 |-- Fast Boot ：Disabled
 	 |-- Launch CSM  ：Disabled
-   
 ```
 
 
